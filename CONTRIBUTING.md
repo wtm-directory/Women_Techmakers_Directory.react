@@ -1,6 +1,6 @@
-# Contributing to react-boilerplate
+# Contributing to Women Techmakers Directory
 
-Love react-boilerplate and want to help? Thanks so much, there's something to do for everybody!
+Love Women Techmakers Directory and want to help? Thanks so much, there's something to do for everybody!
 
 Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
 
@@ -8,7 +8,7 @@ Following these guidelines helps to communicate that you respect the time of the
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/react-boilerplate/react-boilerplate/issues) is
+The [issue tracker](https://github.com/wtm-directory/Women_Techmakers_Directory.react/issues) is
 the preferred channel for [bug reports](#bugs), [features requests](#features)
 and [submitting pull requests](#pull-requests).
 
@@ -81,11 +81,11 @@ included in the project:
 
    ```bash
    # Clone your fork of the repo into the current directory
-   git clone https://github.com/<your-username>/react-boilerplate.git
+   git clone https://github.com/<your-username>/Women_Techmakers_Directory.react.git
    # Navigate to the newly cloned directory
-   cd react-boilerplate
+   cd Women_Techmakers_Directory.react
    # Assign the original repo to a remote called "upstream"
-   git remote add upstream https://github.com/react-boilerplate/react-boilerplate.git
+   git remote add upstream https://github.com/wtm-directory/Women_Techmakers_Directory.react.git
    ```
 
 2. If you cloned a while ago, get the latest changes from upstream:

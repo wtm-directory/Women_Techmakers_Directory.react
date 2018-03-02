@@ -58,6 +58,14 @@ Now you're ready to rumble!
   asynchronicity helpers, etc.
 - [**Troubleshooting**](docs/general/gotchas.md): Solutions to common problems faced by developers.
 
+Supporters
+This project would not be possible without the support by these amazing people!
+----
 
-Thank you for the react-boilerplate team.
-[react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+<a href="https://github.com/YuHongJun/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/16912692?s=100&v=4"></a>
+<a href="https://github.com/uppal101" target="_blank"><img src="https://avatars2.githubusercontent.com/u/19738720?s=100&v=4"></a>
+<a href="https://github.com/B3tty" target="_blank"><img src="https://avatars1.githubusercontent.com/u/2501189?s=100&v=4"></a>
+
+
+Thank you for the [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) team.
+
