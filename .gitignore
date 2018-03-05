@@ -1,0 +1,17 @@
+# Don't check auto-generated stuff into git
+coverage
+build
+node_modules
+stats.json
+yarn.lock
+package-lock.json
+npm-debug.log
+yarn-error.log
+
+# Cruft
+.DS_Store
+.idea
+
+# sonar
+sonar-project.properties
+.scannerwork/
